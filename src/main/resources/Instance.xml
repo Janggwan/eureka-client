@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NewXMLSchema.xsd">
+  <hostName>hostName</hostName>
+  <app>app</app>
+  <ipAddr>ipAddr</ipAddr>
+  <vipAddress>vipAddress</vipAddress>
+  <secureVipAddress>secureVipAddress</secureVipAddress>
+  <status>UP</status>
+  <securePort>1</securePort>
+  <homePageUrl>homePageUrl</homePageUrl>
+  <statusPageUrl>statusPageUrl</statusPageUrl>
+  <healthCheckUrl>healthCheckUrl</healthCheckUrl>
+  <dataCenterInfo>
+    <name>MyOwn</name>
+  </dataCenterInfo>
+</instance>

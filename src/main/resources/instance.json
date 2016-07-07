@@ -1,0 +1,16 @@
+{
+  "@noNamespaceSchemaLocation": "NewXMLSchema.xsd",
+  "hostName": "hostName",
+  "app": "app",
+  "ipAddr": "ipAddr",
+  "vipAddress": "vipAddress",
+  "secureVipAddress": "secureVipAddress",
+  "status": "UP",
+  "securePort": "1",
+  "homePageUrl": "homePageUrl",
+  "statusPageUrl": "statusPageUrl",
+  "healthCheckUrl": "healthCheckUrl",
+  "dataCenterInfo": [
+    "MyOwn"
+  ]
+}
